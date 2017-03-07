@@ -1,31 +1,36 @@
+title: Happy Life Capital
+description: A new private equity International Global Opportunity Fund
 
-exclude:
-  - "/vendor/"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "README.md"
-  - "LICENSE.md"
-  - "*.gemspec"
-
-keep_files:
-  - "CNAME"
-  - ".git"
-  - ".gitignore"
-
-
-# Site settings
-title: HLC
-subtitle: "Happy Life Capital"
-url: "www.happylifecapital.com" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Build settings
 markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
 
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About Us
+   url: /about
+- title: Global Stregnths
+   url: /stregnths
+- title: Clear Focus
+   url: /focus
+- title: Our Team
+   url: /team
+ - title: Regional Offices
+   url: /offices
+ - title: Portfolio
+   url: /portfolio
+ - title: Contact Us
+   url: /contact
 
-# Category descriptions (for archive pages)
+social:
+   email: Jessy_chao@happylifecapital.com
+   email: Charles_mao@happylifecapital.com
+
+#google_analytics: ""
