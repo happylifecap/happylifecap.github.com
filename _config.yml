@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: HLC
+title: Happy Life Capital
 
 # Short description of your site
 description: Happy Life Capital
@@ -23,6 +23,7 @@ description: Happy Life Capital
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "home"
   About Us: "aboutus"
   Global Strengths: "#"
   Clear Focus: "#"
