@@ -12,10 +12,10 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-title: HLC
-description: A new private equity International Global Opportunity Fund
+title: "HLC"
+description: "A new private equity International Global Opportunity Fund"
 
-url: happylifecapital.com
+url: "www.happylifecapital.com"
 baseurl: ""
 
 markdown: kramdown
