@@ -12,20 +12,23 @@ keep_files:
   - ".git"
   - ".gitignore"
 
+title: "HLC"
+description: "A new private equity International Global Opportunity Fund"
 
-# Site settings
-title: HLC
-subtitle: "Happy Life Capital"
-url: "www.happylifecapital.com" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+url: "www.happylifecapital.com"
 baseurl: ""
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
 
-# Build settings
 markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
 
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+navigation:
+ - title: Home
+   url: /index.html
 
-# Category descriptions (for archive pages)
+social:
+   email: Jessy_chao@happylifecapital.com
+   email: Charles_mao@happylifecapital.com
+
+#google_analytics: ""
