@@ -1,10 +1,22 @@
-title: Happy Life Capital
+
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+title: HLC
 description: A new private equity International Global Opportunity Fund
 
-url: http://brianmaierjr.github.com/long-haul
+url: happylifecapital.com
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
