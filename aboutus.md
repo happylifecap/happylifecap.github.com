@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About Us
-subtitle: Why you'd want to go on a date with me
+subtitle: Fund Profile
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Launched in 2016
+- Commited fund capital is > US $100million.
+- Global Opportunity Fund is a Cayman registered limited partnership
+- Happy Life Capital Management, a Dallas registered company, manages this fund
+- China-based founding LP is a leading financial conglomerate (one trillion RMB or $150B under its management) in China.
+- Fund investment period is 5 years +2 years post +2 years special approval.
