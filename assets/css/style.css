@@ -1,10 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
 @import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
+@import url('https://fonts.googleapis.com/css?family=Catamaran');
 .button,.button-secondary,.button-tertiary,.button__outline{
 	background-color:#2e8b57;
 	display:inline-block;
 	position:relative;
-	font-family:"Open Sans",Helvetica,Arial,sans-serif;
+	font-family:"Catamaran",sans-serif;
 	text-decoration:none;
 	color:#fff;
 	font-size:1em;
@@ -100,7 +101,7 @@ th:last-child{border-right:0}
 body{font-size:1em;line-height:1.45}
 body .intro{font-size:1.25em;line-height:1.7}
 @media (min-width: 43.75em){body{font-size:1em;line-height:1.375}}
-h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6{margin:.5rem 0 1.5rem;font-family:"Open Sans",Helvetica,Arial,sans-serif}
+h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6{margin:.5rem 0 1.5rem;font-family:"Catamaran",sans-serif}
 h1,.h1{font-size:2em;line-height:1.25}
 @media (min-width: 43.75em){h1,.h1{font-size:2.5em;line-height:1.125}}
 @media (min-width: 56.25em){h1,.h1{font-size:3em;line-height:1.05}}
@@ -142,13 +143,13 @@ dd{margin:0 0 1.5rem}
 .header{background-color:#2e8b57;background-image:url("../img/touring.jpg");background-size:cover;background-position:center center;color:white;padding:0;height:3em}
 .header .container{padding:0;max-width:100%;margin-left:auto;margin-right:auto}
 .header .container:after{content:" ";display:block;clear:both}
-.header h1{margin:0;float:left;padding-left:2rem;font-size:1em;line-height:3em;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:800;text-transform:uppercase}
+.header h1{margin:0;float:left;padding-left:2rem;font-size:1em;line-height:3em;font-family:"Catamaran",sans-serif;font-weight:800;text-transform:uppercase}
 .header h1 a{color:white;text-decoration:none}
 .post .postTitle{text-align:center;margin-top:2rem;margin-bottom:1rem}
 .post blockquote{clear:both;margin:2.5em 0;padding:0;line-height:1.8;position:relative}
 .post blockquote:before{content:"";position:absolute;top:-1.25em;background:#2e8b57;display:block;height:2px;width:150px;left:calc(50% - 75px)}
 .post blockquote:after{content:"";position:absolute;bottom:-1.25em;background:#2e8b57;display:block;height:2px;width:150px;left:calc(50% - 75px)}
-.post .meta{text-align:center;color:gray;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:300}
+.post .meta{text-align:center;color:gray;font-family:"Catamaran",sans-serif;font-weight:300}
 .post figure{margin:3rem 0}
 .post figure figcaption{text-align:center;font-size:.9em;font-style:italic;color:#5e5e5e}
 .post figure img{margin:0 auto;display:block}
@@ -158,7 +159,7 @@ dd{margin:0 0 1.5rem}
 .post .featuredImage{position:relative;margin-top:2rem}
 .post .featuredImage img{margin-bottom:0}
 .postNav{border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;overflow:hidden}
-.postNav .prev,.postNav .next{display:block;width:100%;height:5rem;overflow:hidden;position:relative;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:800;font-size:.9em;text-transform:uppercase;text-align:center}
+.postNav .prev,.postNav .next{display:block;width:100%;height:5rem;overflow:hidden;position:relative;font-family:"Catamaran",sans-serif;font-weight:800;font-size:.9em;text-transform:uppercase;text-align:center}
 .postNav .prev img,.postNav .next img{z-index:1;display:block;position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);left:0;width:100%;height:auto}
 .postNav .prev span,.postNav .next span{z-index:10;position:relative;padding:.5rem;position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);width:100%;line-height:1.4}
 .postNav .prev.image,.postNav .next.image{text-decoration:none;color:white;text-shadow:1px 1px 3px rgba(0,0,0,0.8);padding:0 .5rem;position:relative;-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out}
@@ -182,15 +183,15 @@ dd{margin:0 0 1.5rem}
 .posts li:before{content:"";position:absolute;bottom:-2rem;left:0;background:#e6e6e6;height:2px;width:60px}
 .posts li a{text-decoration:none}
 .posts li a:hover{text-decoration:underline}
-.posts li .date{color:gray;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:300;font-size:.8em}
+.posts li .date{color:gray;font-family:"Catamaran",sans-serif;font-weight:300;font-size:.8em}
 .posts li h3{margin:0 0 .5em}@media only screen and (min-width: 900px){.content{padding-top:0;position:relative;z-index:1}
 .content:after{z-index:-1;background:white;content:"";display:block;width:100%;height:10em;position:absolute;top:-2em;left:0;-webkit-transform:skewY(-2deg);-ms-transform:skewY(-2deg);transform:skewY(-2deg);-webkit-transform-origin:bottom left;-ms-transform-origin:bottom left;transform-origin:bottom left}
-.container{max-width:800px;margin-left:auto;margin-right:auto;padding:0}
+.container{max-width:900px;margin-left:auto;margin-right:auto;padding:0}
 .container:after{content:" ";display:block;clear:both}
 #home .posts,#home .pageTitle,#home .pagination{width:74.46809%;float:left;margin-right:2.12766%;float:none;margin:0 auto 1.5em}
 #home .pageTitle{margin:2rem auto 1em}
 .header{height:15em;position:relative;padding-bottom:2em}
-.header .container{position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);max-width:800px;margin-left:auto;margin-right:auto}
+.header .container{position:relative;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);max-width:900px;margin-left:auto;margin-right:auto}
 .header .container:after{content:" ";display:block;clear:both}
 .header h1{font-size:3em;line-height:1;letter-spacing:-3px;padding-left:0}
 .header nav{float:left;clear:left}.header nav ul{margin:0}
@@ -212,7 +213,7 @@ dd{margin:0 0 1.5rem}
 .postNav .next{text-align:right;float:right}
 .footer-links{float:right}
 .footer .copy{float:left}
-.footer .container{padding:1rem 0;max-width:800px;margin-left:auto;margin-right:auto}
+.footer .container{padding:1rem 0;max-width:900px;margin-left:auto;margin-right:auto}
 .footer .container:after{content:" ";display:block;clear:both}
 .contactContent{width:48.93617%;float:left;margin-right:2.12766%}
 #contact form{width:48.93617%;float:right;margin-right:0}
