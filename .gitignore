@@ -1,4 +1,9 @@
+# project
 _site
 .sass-cache
+.vagrant
+
+# general
 .DS_Store
-.ruby-version
+Thumbs.db
+ehthumbs.db

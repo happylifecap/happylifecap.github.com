@@ -1,9 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem "jekyll"
-gem "jekyll-paginate"
-gem "susy"
-gem "normalize-scss"
-gem "compass"
-gem "sass"
-gem "support-for"
+gem 'github-pages', '106'
+gem 'jekyll-paginate'
