@@ -10,7 +10,7 @@ subtitle: Management
 * CFO with E-Tek (now Viavi Solutions)
 * CPA with KMPG
 
-Mr. Chao has 30 years experience in international companies, with a specific background in the worldwide telecom industry and an emphasis on commercialization, business development, and finance. A graduate of San Jose State University, Mr. Chao worked as a CPA with the firm KPMG. He also was the founder and manager of a glass manufacturing company in China that employed unique newly-patented technology, and ultimately became a global supplier of glass for consumer products. Mr. Chao's primary focus consistently has been in financially viable commercialization of advanced technology products and solutions.
+>Mr. Chao has 30 years experience in international companies, with a specific background in the worldwide telecom industry and an emphasis on commercialization, business development, and finance. A graduate of San Jose State University, Mr. Chao worked as a CPA with the firm KPMG. He also was the founder and manager of a glass manufacturing company in China that employed unique newly-patented technology, and ultimately became a global supplier of glass for consumer products. Mr. Chao's primary focus consistently has been in financially viable commercialization of advanced technology products and solutions.
 
 _______
 
