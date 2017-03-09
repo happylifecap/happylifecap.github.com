@@ -12,7 +12,7 @@ If you have an opportunity that meets our criteria that you want us to consider,
 * [Jessy Chao](mailto:jessy_chao@happylifecapital.com)
 * [Charles Mao](mailto:charles_mao@happylifecapital.com)
 
-### Offices
+### Regional Offices
 * San Francisco & San Jose -- [Jessy Chao](mailto:jessy_chao@happylifecapital.com)
 * Chicago, Pittsburgh, & New York -- [Tony Florence](mailto:tony_florence@comcast.net)
 * Dallas & Boston -- [Charles Mao](mailto:charles_mao@happylifecapital.com)
