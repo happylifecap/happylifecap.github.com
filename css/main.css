@@ -255,41 +255,60 @@ img {
 
 /* --- Footer --- */
 
-footer {
-  padding: 30px 0;
+.navbar-footer-custom {
   background: #4f617c;
-  border-top: 1px #EAEAEA solid;
-  margin-top: 50px;
-  font-size: 14px;
-}
-
-footer a {
-  color: #404040;
-}
-
-footer .list-inline {
-  margin: 0;
-  padding: 0;
-}
-footer .copyright {
+  border-top: 1px solid #EAEAEA;
   font-family: 'Lora', 'Times New Roman', serif;
-  text-align: center;
-  margin-bottom: 0;
 }
-footer .theme-by {
-  text-align: center;
-  margin: 10px 0 0;
+
+.navbar-footer-custom .nav li a {
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+.navbar-footer-custom .navbar-footer-brand,
+.navbar-footer-custom .nav li a {
+  font-weight: 800;
+  color: #e0e0e0;
+}
+
+.navbar-footer-custom .navbar-footer-brand:hover,
+.navbar-footer-custom .navbar-footer-brand:focus ,
+.navbar-footer-custom .nav li a:hover,
+.navbar-footer-custom .nav li a:focus {
+  color: #000;
+}
+
+.navbar-footer-custom .navbar-footer-brand-logo {
+  padding-bottom: 0;
+  -webkit-transition: padding .5s ease-in-out;
+  -moz-transition: padding .5s ease-in-out;
+  transition: padding .5s ease-in-out;  
+}
+.navbar-footer-custom .navbar-footer-brand-logo img {
+  height: 50px;
+  -webkit-transition: height .5s ease-in-out;
+  -moz-transition: height .5s ease-in-out;
+  transition: height .5s ease-in-out;
+}
+.navbar-footer-custom.top-nav-short .navbar-footer-brand-logo {
+  padding-bottom: 5px;
+}
+.navbar-footer-custom.top-nav-short .navbar-footer-brand-logo img {
+  height: 40px;
 }
 
 @media only screen and (min-width: 768px) {
-  footer {
-    padding: 50px 0;
+  .navbar-footer-custom {
+    padding: 20px 0;
+    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
   }
-  footer .footer-links {
-    font-size: 18px;
-  }
-  footer .copyright {
-    font-size: 16px;
+
+  .navbar-footer-custom.bottom-nav-short {
+    padding: 0;
   }
 }
  
