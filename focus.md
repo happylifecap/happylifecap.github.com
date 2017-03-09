@@ -12,3 +12,4 @@ Our goal is to provide substantial returns primarily by M&A to entrepreneurs, em
 - Automations, smart manufacturing, +Internet & +AI
 - IC chips & AI software to enable new application & infrastructure
 - Bio chips and nano material technology
+
