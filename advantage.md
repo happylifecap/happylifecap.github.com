@@ -10,3 +10,4 @@ subtitle: Our Strategic Advantage
 - Tens of global experienced resident CEOs to help entrepreneurs to manage and to grow.
 - Deal sharing with Chinese mega fund (¥350B Chengtong Fund, ¥200B Guoxing Fund, etc.)
 - China based LP owns over two dozens of public listed companies and has strong financial resources.
+
