@@ -21,6 +21,6 @@ _______
 * PhD in Engineering
 * BS in Accounting
 
-Dr. Mao has 28 years experience in corporate global operations, with a specific background in technology and the internet, and an emphasis on commercialization, marketing, and sales. Dr. Mao's specific inclinations are toward data centric communications including IC chips, data securities, and AI/ML data analytics. He has a PhD in Engineering from NYU, among several other technical degrees.
+>Dr. Mao has 28 years experience in corporate global operations, with a specific background in technology and the internet, and an emphasis on commercialization, marketing, and sales. Dr. Mao's specific inclinations are toward data centric communications including IC chips, data securities, and AI/ML data analytics. He has a PhD in Engineering from NYU, among several other technical degrees.
 
 _______
