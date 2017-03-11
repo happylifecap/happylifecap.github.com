@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Contact Us
-subtitle: Regional Offices
+title: Regional Offices
 ---
 
 Happy Life Capital has regional offices in six strategic cities in the United States. Over 60% of the private equity deal flow in the U.S. comes through these cities. 
