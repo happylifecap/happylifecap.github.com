@@ -16,3 +16,4 @@ If you have an opportunity that meets our criteria that you want us to consider,
 * Chicago, Pittsburgh, & New York -- [Tony Florence](mailto:tony_florence@comcast.net)
 * Dallas & Boston -- [Charles Mao](mailto:charles_mao@happylifecapital.com)
 
+We also are focused on large market opportunities in China and India.
