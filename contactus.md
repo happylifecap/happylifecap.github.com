@@ -3,9 +3,9 @@ layout: page
 title: Contact Us
 ---
 
-## [Jessy Chao](mailto:jessy_chao@happylifecapital.com)
-## [Charles Mao](mailto:charles_mao@happylifecapital.com)
-## [Tony Florence](mailto:tony_florence@comcast.net)
+## [Jessy Chao, LP](mailto:jessy_chao@happylifecapital.com)
+## [Charles Mao, LP](mailto:charles_mao@happylifecapital.com)
+## [Tony Florence, Regional Rep](mailto:tony_florence@comcast.net)
 
 
 
